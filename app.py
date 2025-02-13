@@ -34,7 +34,7 @@ def model_response(text: str):
 
 # Start building streamlit app
 st.title("Llama 3.3 Model")
-st.subheader("by ~Ravi")
+st.subheader("by ~ Ravi")
 
 text = st.text_area("Please ask any question : ")
 
